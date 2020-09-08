@@ -1,4 +1,4 @@
 <?php
-heder('Location : index.html');
+heder('Location: index.html');
 exit
 ?>
